@@ -23,3 +23,6 @@ All webinar lectures, slides, and datasets are publicly hosted by Yandex.
 ## 🛠️ Technologies Used  
 - Python, OpenCV, PyTorch
 - Libraries: NumPy, Matplotlib  
+
+## ⚠️ Note  
+**These are my personal solutions to assignments where the deadline has passed.**
