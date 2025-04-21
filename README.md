@@ -1,8 +1,8 @@
-# 🖥️ Computer Vision Trainings (2024)  
+# 🖥️ Computer Vision Trainings (2025)  
 *A series of webinar-based trainings by Yandex, with implemented homework assignments.*
 
 ## 📌 Overview  
-This repository contains my solutions to homework assignments from the **Yandex Machine Learning Trainings Season 3** (2024). Each webinar focused on a key CV topic, followed by a practical coding task.  
+This repository contains my solutions to homework assignments from the **Yandex Machine Learning Trainings Season 3** (2025). Each webinar focused on a key CV topic, followed by a practical coding task.  
 
 ## 📚 Official Training Materials  
 All webinar lectures, slides, and datasets are publicly hosted by Yandex.  
