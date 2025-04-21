@@ -24,7 +24,7 @@ All webinar lectures, slides, and datasets are publicly hosted by Yandex.
 - Python, OpenCV, PyTorch
 - Libraries: NumPy, Matplotlib  
 
-# 🚨 Important Notice
+## 🚨 Important Notice
 **This repository only contains solutions for completed assignments where the deadline has passed.**  
 - 🛑 Solutions for active/upcoming assignments will **not** be published here  
 - 🔒 New solutions will be added only after their respective deadlines
