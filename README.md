@@ -19,6 +19,8 @@ All webinar lectures, slides, and datasets are publicly hosted by Yandex.
     - Homework: OpenCV implementation of SIFT algorithm
 4. **Overfitting and Normalization**
     - Homework: Neural Net overfitting and Normalization
+5. **Tabular Data**
+    - Homework: Train a Regression Model on tabular dataset
 
 ## 🛠️ Technologies Used  
 - Python, OpenCV, PyTorch
