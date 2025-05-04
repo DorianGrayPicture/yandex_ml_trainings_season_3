@@ -21,6 +21,8 @@ All webinar lectures, slides, and datasets are publicly hosted by Yandex.
     - Homework: Neural Net overfitting and Normalization
 5. **Tabular Data**
     - Homework: Train a Regression Model on tabular dataset
+6. **Reconstruction CNN filters**
+    - Homework: Train a CNN to reconstruct a filter
 
 ## 🛠️ Technologies Used  
 - Python, OpenCV, PyTorch
